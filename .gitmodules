@@ -1,0 +1,109 @@
+[submodule "maven"]
+	path = maven
+	url = git@github.com:apache/maven.git
+[submodule "maven-resolver"]
+	path = maven-resolver
+	url = git@github.com:apache/maven-resolver.git
+[submodule "maven-shared/maven-shared-utils"]
+	path = maven-shared/maven-shared-utils
+	url = git@github.com:apache/maven-shared-utils.git
+[submodule "plugins/maven-clean-plugin"]
+	path = plugins/maven-clean-plugin
+	url = git@github.com:apache/maven-clean-plugin.git
+[submodule "plugins/maven-resources-plugin"]
+	path = plugins/maven-resources-plugin
+	url = git@github.com:apache/maven-resources-plugin.git
+[submodule "plugins/maven-compiler-plugin"]
+	path = plugins/maven-compiler-plugin
+	url = git@github.com:apache/maven-compiler-plugin.git
+[submodule "plugins/maven-war-plugin"]
+	path = plugins/maven-war-plugin
+	url = git@github.com:apache/maven-war-plugin.git
+[submodule "plugins/maven-ear-plugin"]
+	path = plugins/maven-ear-plugin
+	url = git@github.com:apache/maven-ear-plugin.git
+[submodule "plugins/maven-rar-plugin"]
+	path = plugins/maven-rar-plugin
+	url = git@github.com:apache/maven-rar-plugin.git
+[submodule "plugins/maven-install-plugin"]
+	path = plugins/maven-install-plugin
+	url = git@github.com:apache/maven-install-plugin.git
+[submodule "plugins/maven-deploy-plugin"]
+	path = plugins/maven-deploy-plugin
+	url = git@github.com:apache/maven-deploy-plugin.git
+[submodule "plugins/maven-remote-resources-plugin"]
+	path = plugins/maven-remote-resources-plugin
+	url = git@github.com:apache/maven-remote-resources-plugin.git
+[submodule "plugins/maven-assembly-plugin"]
+	path = plugins/maven-assembly-plugin
+	url = git@github.com:apache/maven-assembly-plugin.git
+[submodule "plugins/maven-antrun-plugin"]
+	path = plugins/maven-antrun-plugin
+	url = git@github.com:apache/maven-antrun-plugin.git
+[submodule "plugins/maven-ejb-plugin"]
+	path = plugins/maven-ejb-plugin
+	url = git@github.com:apache/maven-ejb-plugin.git
+
+[submodule "testing/maven-plugin-testing"]
+	path = testing/maven-plugin-testing
+	url = git@github.com:apache/maven-plugin-testing.git
+[submodule "plugins/maven-dependency-plugin"]
+	path = plugins/maven-dependency-plugin
+	url = git@github.com:apache/maven-dependency-plugin.git
+[submodule "plugins/maven-wrapper-plugin"]
+	path = plugins/maven-wrapper-plugin
+	url = git@github.com:apache/maven-wrapper-plugin.git
+[submodule "plugins/maven-gpg-plugin"]
+	path = plugins/maven-gpg-plugin
+	url = git@github.com:apache/maven-gpg-plugin.git
+[submodule "plugins/maven-help-plugin"]
+	path = plugins/maven-help-plugin
+	url = git@github.com:apache/maven-help-plugin.git
+[submodule "plugins/maven-invoker-plugin"]
+	path = plugins/maven-invoker-plugin
+	url = git@github.com:apache/maven-invoker-plugin.git
+[submodule "plugins/maven-jar-plugin"]
+	path = plugins/maven-jar-plugin
+	url = git@github.com:apache/maven-jar-plugin.git
+[submodule "maven-plugin-tools"]
+	path = maven-plugin-tools
+	url = git@github.com:apache/maven-plugin-tools.git
+[submodule "plugins/maven-javadoc-plugin"]
+	path = plugins/maven-javadoc-plugin
+	url = git@github.com:apache/maven-javadoc-plugin.git
+[submodule "plugins/maven-shade-plugin"]
+	path = plugins/maven-shade-plugin
+	url = git@github.com:apache/maven-shade-plugin.git
+[submodule "plugins/maven-source-plugin"]
+	path = plugins/maven-source-plugin
+	url = git@github.com:apache/maven-source-plugin.git
+[submodule "plugins/maven-toolchains-plugin"]
+	path = plugins/maven-toolchains-plugin
+	url = git@github.com:apache/maven-toolchains-plugin.git
+[submodule "maven-parent"]
+	path = maven-parent
+	url = git@github.com:apache/maven-parent.git
+[submodule "maven-scm"]
+	path = maven-scm
+	url = git@github.com:apache/maven-scm.git
+[submodule "maven-shared/maven-common-artifact-filters"]
+	path = maven-shared/maven-common-artifact-filters
+	url = git@github.com:apache/maven-common-artifact-filters.git
+[submodule "maven-shared/maven-artifact-transfer"]
+	path = maven-shared/maven-artifact-transfer
+	url = git@github.com:apache/maven-artifact-transfer.git
+[submodule "maven-shared/maven-dependency-tree"]
+	path = maven-shared/maven-dependency-tree
+	url = git@github.com:apache/maven-dependency-tree.git
+[submodule "maven-enforcer"]
+	path = maven-enforcer
+	url = git@github.com:apache/maven-enforcer.git
+[submodule "maven-shared/maven-filtering"]
+	path = maven-shared/maven-filtering
+	url = git@github.com:apache/maven-filtering.git
+[submodule "maven-shared/maven-invoker"]
+	path = maven-shared/maven-invoker
+	url = git@github.com:apache/maven-invoker.git
+[submodule "maven-shared/maven-shared-resources"]
+	path = maven-shared/maven-shared-resources
+	url = git@github.com:apache/maven-shared-resources.git
