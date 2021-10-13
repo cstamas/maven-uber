@@ -54,6 +54,8 @@ under the License.
     <module>maven-shared/maven-shared-resources</module>
     <module>maven-shared/maven-shared-utils</module>
 
+    <module>testing/maven-plugin-testing</module>
+
     <module>plugins/maven-antrun-plugin</module>
     <module>plugins/maven-assembly-plugin</module>
     <module>plugins/maven-clean-plugin</module>
