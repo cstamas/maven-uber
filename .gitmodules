@@ -107,3 +107,6 @@
 [submodule "maven-shared/maven-shared-resources"]
 	path = maven-shared/maven-shared-resources
 	url = git@github.com:apache/maven-shared-resources.git
+[submodule "maven-surefire"]
+	path = maven-surefire
+	url = git@github.com:apache/maven-surefire.git
